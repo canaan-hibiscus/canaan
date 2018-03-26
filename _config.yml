@@ -71,12 +71,12 @@ pagination_dir: page
 
 # Extensions
 ## Plugins: https://hexo.io/plugins/
-## Themes: https://hexo.io/Themes/
-alpha: landscape
+## Themes: https://hexo.io/themes/
+theme: landscape
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:git
-  repo: git@github.com:canaan-hibiscus/canaan-hibiscus.github.io.git
+  type: git
+  repo: git@github.com:[Github账号]/[Github账号].github.io.git
   branch: master
